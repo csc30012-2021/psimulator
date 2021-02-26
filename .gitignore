@@ -3,6 +3,7 @@
 # IntelliJ IDEA
 .idea
 out/
+/*/bin/
 /*/build/
 /*/test/
 examples/*-DATA
@@ -12,3 +13,7 @@ gradle/
 gradlew
 gradlew.bat
 
+# Gitpod configuration files
+.classpath
+.project
+.settings
